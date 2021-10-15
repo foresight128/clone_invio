@@ -1,12 +1,31 @@
-# clone_invio
+# PROJECT - clone_invio
+인비오 웹사이트 클론코딩
 
-url - https://foresight128.github.io/clone_invio/
+View - https://foresight128.github.io/clone_invio/
 
-Date - 2021/04/30
+<br>
 
-Tool & Skill
+## 개요
+```
+마크업 연습을 위해 인비오 웹사이트를 클론코딩 하였습니다.
+```
+## 제작기간
+```
+2021/04/30
+```
+
+## 투입인원
+```
+1인 단독작업
+```
+
+## 활용기술
+```
 - html5
 - css3
 - VisualStudioCode
+```
 
-![invio](https://user-images.githubusercontent.com/89468282/131331618-a1bbe8aa-c043-42c8-8979-ddf55e8a858a.png)
+## 완성 페이지
+
+![clone_invio](https://user-images.githubusercontent.com/89468282/137437051-a86ce52b-fa28-49a0-a546-22d2434ca649.png)
